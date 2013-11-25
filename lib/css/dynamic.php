@@ -1,5 +1,5 @@
 <?php
-include ('../../../../../wp-blog-header.php');
+include ('../../../../../wp-load.php');
 header('Content-type: text/css');
 $pageType = $_GET["type"];
 $pageType = urldecode($pageType);
