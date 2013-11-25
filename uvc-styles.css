@@ -1,0 +1,82 @@
+/* UVC Header Ads */
+.uvc_header_ad468x60{float:right;margin:15px 20px 10px 0;}
+
+/* UVC Featured Content Styles #uvc_change
+==================================================================== */
+.uvc_feature_top_bar{background: #29456e;padding: 4px 10px;font-size: 2em;color: #fff;font-family: oswald,'helvetica neue',impact,georgia;}/*sdc*/
+.uvc_feature_top_bar h2 a{color:#fff;}
+iframe.uvc_feature_video_youtube{margin: 0 0 10px 0;}
+
+/* UVC Post Meta 
+==== */
+p.feature_bar_post_tag span.post_tags a{float: right;margin: -33px 15px 0 0;font-size: 1.8em;font-family: oswald,helvetica,arial,sans-serif;text-transform: uppercase;color: #fff;}
+/* Post Tags under feature video/thumbnail */
+.headline_area p.headline_meta span.post_tags a {margin-right: 10px;border-bottom:0px;text-transform: uppercase;font-family:'pt sans narrow',oswald;font-size: .9em;font-weight:bold;color:#0B7B70;}
+/* Remove the border under feature/single post titles */
+.single .headline_area .headline_meta, .wppage .headline_area .headline_meta {border:0px;}
+/* Add margin to top of feature/single post titles */
+.headline_area h1.entry-title, .headline_area h2.entry-title {margin-top: 10px;}
+/* Format author / byline */
+.headline_area .headline_meta span.author_meta a {text-decoration: none;font-family:'news cycle','pt sans narrow',oswald;font-size: 1.2em;font-weight:bold;color:#0B7B70;margin-left:10px;}/*plc*/
+/* Teaser tag headings above teasers */
+.teasers_box h2.entry-title{margin:10px 0;}
+p.teaser_tag_meta{padding:5px 10px;background: #f8f8f8;border-top: 2px solid #0B7B70;border-bottom: 2px solid #0B7B70;} /*plc*/
+p.teaser_tag_meta span.post_tags a {margin-right: 10px;border-bottom:0px;text-transform: uppercase;font-family:'news cycle','pt sans narrow',oswald;font-size: 1.1em;font-weight:bold;color:#0B7B70;}/*plc*/
+p.teaser_tag_meta span.post_tags a:hover{text-decoration: underline;}
+.teasers_box .post-thumb img {background: white;padding: 0px;border: 0px solid #E9E9E9;-webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;}
+.teasers_box p a.teaser_link {border: 0px solid #CCC;}
+
+/* Feature Related Posts  List */
+.related-heading{display:block;margin-bottom:10px;font-family:oswald,'news cycle','pt sans narrow',oswald;font-size: 1.5em;font-weight:bold;color:#444;}
+.feature-related-posts{margin:10px 0 20px 0px;}
+.feature-related-posts ul{list-style-type: none;font-size: 1.5em;font-family: 'source sans pro',helvetica,arial,sans-serif;}
+.feature-related-posts ul li{margin-left:20px;line-height: 1.6em;height:75px;display:block;}
+.feature-related-posts ul li a {color:#333;}
+.feature-related-posts ul li a:hover { text-decoration: underline; color: #0B7B70;}
+.feature-related-posts ul li h5 span.text{padding-top:15px;display: block;}
+.feature-related-posts ul li img.teaser-related-thumb{float:left;margin-right:4px;padding:2px;border:1px solid #ccc;}
+.feature-related-posts ul li h5 span.teaser_text{padding-top:0px;display: block;}
+
+/* Trending Topics */
+#trending_topics{margin:10px 0 25px 0;display: block}
+#trending_topics h3{ background: none repeat scroll 0 0 #F8F8F8;border-bottom: 2px solid #0B7B70;border-top: 2px solid #0B7B70;padding: 5px 10px;}
+#trending_topics h3 span.title{ border-bottom: 0 none;color: #0B7B70;font-family: 'news cycle','pt sans narrow',oswald;font-size: 1.6em;font-weight: bold;margin-right: 10px;text-transform: uppercase;}
+.trending_topics_column{width:23%;float:left;padding:2px 5px;}
+.trending_topics_column{list-style-type: none;line-height: 1.7em;text-transform: uppercase;font-family:'news cycle','pt sans narrow',oswald;font-size: 1.3em;font-weight:bold;}
+.trending_topics_column a{color:#0B7B70;}
+.trending_topics_column a:hover{text-decoration: underline;}
+.trending_topics_column ul li{padding:2px 0;}
+
+
+/* !Full Width Sidebar Styles
+==================================================================== */
+/* #uvc_change: padding: 10px 0 0 0; */
+#sidebars {padding: 10px 0 0 0;} 
+h3.apstyle, #sidebars h3.apstyle, #sidebars h3 span, #sidebars .sidebar ul.sidebar_list li.ap_widget h3.inherit span, #sidebars .sidebar ul.sidebar_list li.ap_widget h3.style1_light span, #sidebars .sidebar ul.sidebar_list li.ap_widget h3.style1_dark span, #sidebars .sidebar ul.sidebar_list li.ap_widget h3.downward_tab span, #sidebars .sidebar ul.sidebar_list li.ap_widget h3.downward_tab_right span {
+border-radius: 0px;padding: 3px 10px;}
+
+h3.apstyle, #sidebars h3.apstyle, #sidebars .sidebar ul.sidebar_list li.widget h3, #sidebars .sidebar ul.sidebar_list li.ap_widget h3.inherit, #sidebars .sidebar ul.sidebar_list li.ap_widget h3.style1_light, #sidebars .sidebar ul.sidebar_list li.ap_widget h3.style1_dark, #sidebars .sidebar ul.sidebar_list li.ap_widget h3.downward_tab, #sidebars .sidebar ul.sidebar_list li.ap_widget h3.downward_tab_right {
+height: 30px;padding: 10px 20px 1px 0px;font-size: .8em;text-transform: capitalize;width: 316px;}
+
+li.widget_uvc_tpl_widget ul li{min-height: 75px;}
+#sidebars .sidebar ul.sidebar_list li.widget span.post_tags a {margin-left: -28px;margin-right: 10px;border-bottom:0px;text-transform: uppercase;font-family:oswald,'pt sans narrow',helvetica,arial;font-size: .9em;font-weight:bold;color:#0B7B70;}
+li.widget ul li img.sidebar-thumb{float:left;margin-right:4px;border-radius: 4px;-moz-border-radius:4px;-webkit-border-radius:4px;border:1px solid #ebebeb;padding:2px;background:#fff;}
+li.widget img.video-thumb-overlay{position: relative;width: 25px;top: 30px;left: -100px;}
+
+/* Bootstrap */
+.entry-content .bootstrap .uvc_feed_wrapper h3.heading{font-size: 1.6em;}
+.entry-content .bootstrap .uvc_feed_wrapper .uvc_feed_entry h4.title{font-size: 1.4em;}
+.entry-content .bootstrap .uvc_feed_wrapper .uvc_feed_entry p.content{font-size: 1.2em;}
+
+/* UVC Sidebar Style - min height for thumbnails */
+#sidebars .sidebar ul.sidebar_list li.widget_uvc_tpl_widget ul li, #sidebars .sidebar ul.sidebar_list li.widget_uvc_rpl_widget ul li {
+	display: block;
+	min-height: 70px; 
+	height:auto !important; 
+	height:70px; 
+}
+/* Normalize Font for Chrome */
+#sidebars .sidebar ul.sidebar_list li.widget span.post_tags a, .related-heading, p.feature_bar_post_tag span.post_tags a {
+   font-weight: normal;
+}
+

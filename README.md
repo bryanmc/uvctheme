@@ -1,4 +1,1 @@
-uvctheme
-========
-
-Ultimate Video Curator Theme
+# UVC Theme for Ultimate Video Curator
